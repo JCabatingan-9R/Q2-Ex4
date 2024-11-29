@@ -1,0 +1,11 @@
+body {
+	background-color: seagreen;
+	font-family: Roboto Condensed;
+	color: darkgreen;
+}
+
+.container {
+	background-color: lightgreen;
+	padding: 15px;
+	border-radius: 10px;
+}
